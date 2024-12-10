@@ -1,0 +1,3 @@
+# Ігноруємо всі файли та каталоги, включаючи Next.js ESLint
+node_modules/
+.next/
